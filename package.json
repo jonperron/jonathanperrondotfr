@@ -1,0 +1,23 @@
+{
+  "name": "jonathanperron.fr",
+  "version": "3.0.0",
+  "description": "Mon CV en site internet !",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonperron/jonathanperrondotfr.git"
+  },
+  "author": "J. Perron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonperron/jonathanperrondotfr/issues"
+  },
+  "homepage": "https://github.com/jonperron/jonathanperrondotfr#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "hogan-express": "^0.5.2"
+  }
+}
